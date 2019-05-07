@@ -1,3 +1,5 @@
+// go through and explain line by line
+
 const sortedArr = [1, 2, 3, 4, 5, 6, 9];
 
 function binarySearch(sortedArray, x) {
